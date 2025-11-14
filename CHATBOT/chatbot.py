@@ -13,7 +13,6 @@
 # # os.environ["GROQ_API_KEY"] = "ENTER YOUR API KEY"
 
 
-# # #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
 # # st.header("My RAG BOT")
 
 # # # Upload the PDF
