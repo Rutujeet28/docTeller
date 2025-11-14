@@ -10,7 +10,7 @@
 # # from langchain_community.chains.question_answering import load_qa_chain
 # # import os
 
-# # os.environ["GROQ_API_KEY"] = "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"
+# # os.environ["GROQ_API_KEY"] = "ENTER YOUR API KEY"
 
 
 # # #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
@@ -82,7 +82,7 @@
 # import os
 
 # # Set Groq API key
-# os.environ["GROQ_API_KEY"] = "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"
+# os.environ["GROQ_API_KEY"] = "ENTER YOUR API KEY"
 
 # st.header("My RAG BOT")
 
@@ -174,7 +174,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
 import os
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "ENTER YOUR API KEY"
 
 st.set_page_config(page_title="RAG Bot + Chatbot", layout="wide")
 st.header("📄 My RAG PDF + Floating Chatbot")
